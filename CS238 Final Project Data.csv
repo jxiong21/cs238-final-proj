@@ -1,4 +1,4 @@
-﻿State or Territory Name,Awarded Amount (trailing 12mo),Awarded Funding (Percent of Total),GDP (in $mm),GDP,Personal Income ($mm),Personal Income,Population (thousands of persons),Population,Population (Percent of Total),Income per Capita,
+﻿State,Funding,Funding Percentage,GDP (in $mm),GDP,Personal Income ($mm),Personal Income,Population (thousands of persons),Population,Population (Percent of Total),Income per Capita,
 Alabama (AL),"$55,183,534,760",1.30%,"300,152","$300,152,000,000","271,640","$271,640,000,000",5108,"5,108,000",1.53%,"$53,175",
 Alaska (AK),"$15,082,680,920 ",0.35%,"67,337","$67,337,000,000","52,524","$52,524,000,000",733,"733,000",0.22%,"$71,616",
 Arizona (AZ),"$91,620,357,344 ",2.15%,"508,344","$508,344,000,000","458,154","$458,154,000,000",7431,"7,431,000",2.22%,"$61,652",
